@@ -19,7 +19,7 @@ import lombok.Setter;
 // @Data -- known bug
 @Getter
 @Setter
-public class ProductCatagory {
+public class ProductCategory {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
